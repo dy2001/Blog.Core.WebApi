@@ -1,0 +1,8 @@
+F:\项目\MyProjects\MyBlog\Blog.Core\Blog.Model\bin\Release\netcoreapp3.0\Blog.Model.deps.json
+F:\项目\MyProjects\MyBlog\Blog.Core\Blog.Model\bin\Release\netcoreapp3.0\Blog.Model.dll
+F:\项目\MyProjects\MyBlog\Blog.Core\Blog.Model\bin\Release\netcoreapp3.0\Blog.Model.pdb
+F:\项目\MyProjects\MyBlog\Blog.Core\Blog.Model\obj\Release\netcoreapp3.0\Blog.Model.csprojAssemblyReference.cache
+F:\项目\MyProjects\MyBlog\Blog.Core\Blog.Model\obj\Release\netcoreapp3.0\Blog.Model.AssemblyInfoInputs.cache
+F:\项目\MyProjects\MyBlog\Blog.Core\Blog.Model\obj\Release\netcoreapp3.0\Blog.Model.AssemblyInfo.cs
+F:\项目\MyProjects\MyBlog\Blog.Core\Blog.Model\obj\Release\netcoreapp3.0\Blog.Model.dll
+F:\项目\MyProjects\MyBlog\Blog.Core\Blog.Model\obj\Release\netcoreapp3.0\Blog.Model.pdb

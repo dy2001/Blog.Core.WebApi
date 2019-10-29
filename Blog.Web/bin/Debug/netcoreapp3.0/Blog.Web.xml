@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Blog.Web</name>
+    </assembly>
+    <members>
+        <member name="M:Blog.Web.Controllers.BlogInfoController.GetBlogById(System.Int32)">
+            <summary>
+            根据id获取blog
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Blog.Web.Controllers.BlogInfoController.GetBlog(System.Int32,System.Int32)">
+            <summary>
+            分页获取blog
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Blog.Web.Controllers.BlogInfoController.GetBlogByCategoryId(System.Int32,System.Int32,System.Int32)">
+            <summary>
+            分页根据类别id获取blog
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Blog.Web.Controllers.BlogInfoController.Blog(Blog.Model.Request.AddBlog)">
+            <summary>
+            添加blog
+            </summary>
+            <param name="blog">blog</param>
+            <returns></returns>
+        </member>
+        <member name="M:Blog.Web.Controllers.BlogInfoController.Blog(System.Int32,Blog.Model.Request.AddBlog)">
+            <summary>
+            修改blog
+            </summary>
+            <param name="id">blogid</param>
+            <param name="blog">blog</param>
+            <returns></returns>
+        </member>
+        <member name="M:Blog.Web.Controllers.BlogInfoController.Blog(System.Int32)">
+            <summary>
+            删除blog
+            </summary>
+            <param name="id">类别id</param>
+            <returns></returns>
+        </member>
+        <member name="M:Blog.Web.Controllers.CategoryController.Category">
+            <summary>
+            获取类别列表
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Blog.Web.Controllers.CategoryController.Category(System.String)">
+            <summary>
+            添加类别
+            </summary>
+            <param name="name">类别名</param>
+            <returns></returns>
+        </member>
+        <member name="M:Blog.Web.Controllers.CategoryController.Category(System.Int32,System.String)">
+            <summary>
+            修改类别
+            </summary>
+            <param name="id">类别id</param>
+            <param name="name">新类别名</param>
+            <returns></returns>
+        </member>
+        <member name="M:Blog.Web.Controllers.CategoryController.Category(System.Int32)">
+            <summary>
+            删除类别
+            </summary>
+            <param name="id">类别id</param>
+            <returns></returns>
+        </member>
+        <member name="M:Blog.Web.Controllers.DiaryController.Diary">
+            <summary>
+            获取日记列表
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Blog.Web.Controllers.DiaryController.Diary(System.String)">
+            <summary>
+            添加日记
+            </summary>
+            <param name="content">类别名</param>
+            <returns></returns>
+        </member>
+        <member name="M:Blog.Web.Controllers.DiaryController.Diary(System.Int32,System.String)">
+            <summary>
+            修改日记
+            </summary>
+            <param name="id">类别id</param>
+            <param name="content">新类别名</param>
+            <returns></returns>
+        </member>
+        <member name="M:Blog.Web.Controllers.DiaryController.Diary(System.Int32)">
+            <summary>
+            删除日记
+            </summary>
+            <param name="id">类别id</param>
+            <returns></returns>
+        </member>
+        <member name="M:Blog.Web.Controllers.HomeController.Index(System.Int32,System.String)">
+            <summary>
+            测试接口
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Blog.Web.Controllers.UserController.Login(System.String,System.String)">
+            <summary>
+            登录获取token
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Blog.Web.Controllers.UserController.Admin">
+            <summary>
+            获取管理员信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Blog.Web.Controllers.UserController.Admin(Blog.Model.Request.UpdataAdmin)">
+            <summary>
+            修改管理员信息
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

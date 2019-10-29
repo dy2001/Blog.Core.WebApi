@@ -1,0 +1,13 @@
+F:\项目\MyProjects\MyBlog\Blog.Core\Blog.Service\bin\Release\netcoreapp3.0\Blog.Service.deps.json
+F:\项目\MyProjects\MyBlog\Blog.Core\Blog.Service\bin\Release\netcoreapp3.0\Blog.Service.runtimeconfig.json
+F:\项目\MyProjects\MyBlog\Blog.Core\Blog.Service\bin\Release\netcoreapp3.0\Blog.Service.runtimeconfig.dev.json
+F:\项目\MyProjects\MyBlog\Blog.Core\Blog.Service\bin\Release\netcoreapp3.0\Blog.Service.dll
+F:\项目\MyProjects\MyBlog\Blog.Core\Blog.Service\bin\Release\netcoreapp3.0\Blog.Service.pdb
+F:\项目\MyProjects\MyBlog\Blog.Core\Blog.Service\bin\Release\netcoreapp3.0\Blog.Model.dll
+F:\项目\MyProjects\MyBlog\Blog.Core\Blog.Service\bin\Release\netcoreapp3.0\Blog.Model.pdb
+F:\项目\MyProjects\MyBlog\Blog.Core\Blog.Service\obj\Release\netcoreapp3.0\Blog.Service.csprojAssemblyReference.cache
+F:\项目\MyProjects\MyBlog\Blog.Core\Blog.Service\obj\Release\netcoreapp3.0\Blog.Service.AssemblyInfoInputs.cache
+F:\项目\MyProjects\MyBlog\Blog.Core\Blog.Service\obj\Release\netcoreapp3.0\Blog.Service.AssemblyInfo.cs
+F:\项目\MyProjects\MyBlog\Blog.Core\Blog.Service\obj\Release\netcoreapp3.0\Blog.Service.csproj.CopyComplete
+F:\项目\MyProjects\MyBlog\Blog.Core\Blog.Service\obj\Release\netcoreapp3.0\Blog.Service.dll
+F:\项目\MyProjects\MyBlog\Blog.Core\Blog.Service\obj\Release\netcoreapp3.0\Blog.Service.pdb
